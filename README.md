@@ -14,3 +14,4 @@ Design a conditional generative model to generate stylised english alphabets (A-
 where we control which alphabet (eg. R) we want to generate, and style is chosen randomly.
 
 I implemented cDCGAN using PyTorch library all the code with all explanation for each parameter is upload in the repo
+![alt text](https://github.com/rock42069/GDSC_Hackathon/blob/main/Trijal%20Srivastava.png?raw=true)
